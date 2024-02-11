@@ -338,7 +338,8 @@ transform: translateY(-25px);
     left: 1rem;
     top: 1rem;
     color: var(--mainclr);
-}
+}                           
+
 
 h1.chs{
     color: white;
@@ -360,7 +361,7 @@ p.oly{
     color: #0b0d13;
 }
 p.csr{
-    color:rgb(230, 214, 214);
+    color:rgb(26, 20, 20);
 }
 
 
@@ -405,4 +406,24 @@ p.csr{
             padding: 1rem 2rem;
          
         }
+}
+
+                                        
+footer{
+    height: 500px;
+    background-color: #0b0d13;
+    color: #ffffff;
+}
+.footer-text{
+    margin-left: 20px;
+    margin-right: 20px;
+    color: aliceblue;
+
+}
+ul{
+    color: white;
+    font-size: 20px;
+}
+ul.active{
+    color: aliceblue;
 }
